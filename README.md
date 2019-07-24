@@ -1,1 +1,3 @@
-Projects of Web Development @codecademy.
+Projects of Web Development @codecademy:
+- Dasmoto
+- Lodash
