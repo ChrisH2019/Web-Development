@@ -37,3 +37,5 @@ Learn more techniques to extend your JavaScript knowledge including reusable cla
 
 - Building a Library
 - School Catalogue
+- Message Mixer
+- WorkAround
