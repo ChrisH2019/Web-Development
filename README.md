@@ -1,4 +1,5 @@
 These projects are done along the way to the learning path of Web Development @Codecademy.com:
+
 Learn HTML
 
 Get started as a web developer by learning the basics of HTML, the essential language of the web.
