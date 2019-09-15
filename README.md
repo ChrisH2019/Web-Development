@@ -1,4 +1,4 @@
-These projects are done along the way to the learning path of Web Development @Codecademy.com:
+A list of projects of Web Development Path @ Codecademy.com:
 
 Learn HTML
 
